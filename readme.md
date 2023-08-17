@@ -2,6 +2,8 @@
 
 Holding the government to account for outcomes is a pleasing idea. But the effects of macro-economic policies is often hard to measure, policies take a long time to work and the short-term outcomes, e.g., quarterly GDP growth, can be very noisy (see concerns raised by Bartels and work by Lenz et al.). But there are some outcomes that governments control with shorter timelines (outside of 'relief'), e.g., the quality of roads, the quality of service at various government agencies, etc. These kinds of issues also may be top of mind for citizens when they elect local and state governments. But systematic data on these metrics is hard to get. We begin the work of filling this gap. 
 
+See, for instance, https://twitter.com/jdcmedlock/status/1692286040512577987
+
 ### Quality of Service at DMV
 
 * Wait time
